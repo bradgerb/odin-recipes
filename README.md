@@ -1,6 +1,6 @@
 # odin-recipes
 
-Tasks in this assignment include
+Tasks in this assignment include:
     <p>Create repos</p>
     <p>Clone repos</p>
     <p>Write html boilerplate</p>
